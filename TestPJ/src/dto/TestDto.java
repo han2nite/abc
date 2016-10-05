@@ -12,6 +12,7 @@ public class TestDto {
 	    return testName;
 	}
 
+
 	/**
 	 * testNameを設定します。
 	 * @param testName testName
