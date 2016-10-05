@@ -3,6 +3,7 @@ package dto;
 public class TestDto {
 
 	String testName;
+	boolean isOk;
 
 	/**
 	 * testNameを取得します。
@@ -21,5 +22,8 @@ public class TestDto {
 	    this.testName = testName;
 	}
 
+	public int getIsOk(){
+		return isOk 
+	}
 
 }
