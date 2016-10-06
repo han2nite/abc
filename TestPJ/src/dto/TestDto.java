@@ -4,7 +4,7 @@ public class TestDto {
 
 	String testName;
 
-	//おほーつくかい！！！！
+	//おほーつくかい！！！！！！
 
 	/**
 	 * testNameを取得します。
