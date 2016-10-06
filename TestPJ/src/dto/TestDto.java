@@ -6,6 +6,7 @@ public class TestDto {
 	boolean isOk;
 
 	//ｇｇｇ
+	//ｔｔｔｔ
 
 	/**
 	 * testNameを取得します。
