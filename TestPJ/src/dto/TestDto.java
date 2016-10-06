@@ -33,9 +33,9 @@ public class TestDto {
 	public void setIsOk(boolean isOk){
 		this.isOk = isOk;
 	}
-	
-	public int getIsOk(){
-		return isOk; 
+
+	public boolean getIsOk(){
+		return isOk;
 	}
 
 	//なぜ？ほほほ
