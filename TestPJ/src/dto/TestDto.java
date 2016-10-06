@@ -5,7 +5,7 @@ public class TestDto {
 	String testName;
 	boolean isOk;
 
-	//？？？
+	//ｇｇｇ
 
 	/**
 	 * testNameを取得します。
