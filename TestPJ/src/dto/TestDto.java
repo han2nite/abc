@@ -22,8 +22,12 @@ public class TestDto {
 	    this.testName = testName;
 	}
 
+	public void setIsOk(boolean isOk){
+		this.isOk = isOk;
+	}
+	
 	public int getIsOk(){
-		return isOk 
+		return isOk; 
 	}
 
 }
