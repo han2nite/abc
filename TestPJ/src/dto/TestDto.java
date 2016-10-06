@@ -5,6 +5,8 @@ public class TestDto {
 	String testName;
 	boolean isOk;
 
+	//？？？
+
 	/**
 	 * testNameを取得します。
 	 * @return testName
