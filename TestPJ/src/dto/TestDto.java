@@ -3,6 +3,7 @@ package dto;
 public class TestDto {
 
 	String testName;
+	boolean isOk;
 
 	//なんだ？
 	//はよ
@@ -29,6 +30,13 @@ public class TestDto {
 	    this.testName = testName;
 	}
 
+	public void setIsOk(boolean isOk){
+		this.isOk = isOk;
+	}
+	
+	public int getIsOk(){
+		return isOk; 
+	}
 
 	//なぜ？ほほほ
 }
