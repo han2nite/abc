@@ -12,6 +12,7 @@ public class TestDto {
 	    return testName;
 	}
 
+	//なになに
 
 	/**
 	 * testNameを設定します。
