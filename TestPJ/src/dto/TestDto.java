@@ -4,6 +4,8 @@ public class TestDto {
 
 	String testName;
 
+	//おほーつくかい！！！！！
+
 	/**
 	 * testNameを取得します。
 	 * @return testName
