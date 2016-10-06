@@ -5,11 +5,6 @@ public class TestDto {
 	String testName;
 	boolean isOk;
 
-	//なんだ？
-	//はよ
-	//おほーつくかい！！！
-	//！！！
-
 	/**
 	 * testNameを取得します。
 	 * @return testName
@@ -18,9 +13,6 @@ public class TestDto {
 	    return testName;
 	}
 
-	//やーめぴ
-	//なになに
-	//むむ
 
 	/**
 	 * testNameを設定します。
@@ -37,9 +29,5 @@ public class TestDto {
 	public boolean getIsOk(){
 		return isOk;
 	}
-
-	//なぜ？ほほほ
-
-	//nannda?
 
 }
